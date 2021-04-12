@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About me 
+
+💻좋은 개발자, 같이 일하고 싶은 개발자로 성장하고 싶어요.
+
+## Skills
+- C
+- Java
+- Python
+- Django
+- MySQL
