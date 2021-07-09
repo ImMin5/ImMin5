@@ -24,3 +24,7 @@ Here are some ideas to get you started:
 - Python
 - Django
 - MySQL
+
+
+## 마음가짐
+ - 작은 변화가 큰 변화를 만든다!
