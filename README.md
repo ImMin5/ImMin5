@@ -29,3 +29,5 @@ Here are some ideas to get you started:
 
 ## 마음가짐
  - 작은 변화가 큰 변화를 만든다!
+
+![ImMin5's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImMin5&theme=dark&show_icons=true)
