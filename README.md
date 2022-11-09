@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 
 ![ImMin5's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImMin5&theme=dark&show_icons=true)
 
-
-[![ImMin5's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImMin5)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
